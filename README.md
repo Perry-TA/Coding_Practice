@@ -1,17 +1,17 @@
 # **Example README**
 
 
-This is some example text.
+Example text.
 
-## And now I'm adding a plot
+## Example plot
 
 
-![A histogram of penguins](./my_plots/histograms.png)
+![A histogram of penguins](./my_plots/4.png)
 
 
 ## I can also add a link to a [folder](./my_plots)
 
-If I want the link in normal text that's [fine](./my_plots), too.
+If I want the link in normal text that's [fine](./my_plots/Variable_track_popularity.png), too.
 
 ### There are different header levels
 
