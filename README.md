@@ -22,3 +22,4 @@ If I want I can even add a table!
 |:------------|:----------|:--------------|
 | *Week 1*    |Intro      |rep()          |
 | *Week 2*    |Regex      |gsub()         |             
+| *Week 3*    |Loops      |for(){}        |
